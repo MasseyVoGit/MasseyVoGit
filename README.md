@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a 4th-year undergraduate student at **The Univ
 ### 🌱 Currently Learning:
 - **Web Development** 
 ### ⚡ Fun Fact:
-I might like **Chipotle** 🌯 and enjoy listenign to music and cooking :)
+I might like **Chipotle** 🌯 and enjoy listening to music and cooking :)
 
 ---
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😊
